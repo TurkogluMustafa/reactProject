@@ -43,7 +43,7 @@ const App = () => {
 
 
   </Layout></div>
-    <div style={{paddingTop: "125px" }}><Form
+    <div style={{paddingTop: "100px" ,paddingRight: "1117px"}}><Form
       name="basic"
       labelCol={{
         span: 8,
